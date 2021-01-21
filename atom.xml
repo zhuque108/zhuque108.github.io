@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zhuque108.github.io</id>
-    <title>Gridea</title>
-    <updated>2021-01-21T06:12:25.489Z</updated>
+    <title>欧阳公知的笔记库</title>
+    <updated>2021-01-21T06:15:34.318Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zhuque108.github.io"/>
     <link rel="self" href="https://zhuque108.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>做正确的事，而不是舒服的事</subtitle>
     <logo>https://zhuque108.github.io/images/avatar.png</logo>
     <icon>https://zhuque108.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, 欧阳公知的笔记库</rights>
+    <entry>
+        <title type="html"><![CDATA[你好]]></title>
+        <id>https://zhuque108.github.io/post/ni-hao/</id>
+        <link href="https://zhuque108.github.io/post/ni-hao/">
+        </link>
+        <updated>2021-01-21T06:15:08.000Z</updated>
+        <content type="html"><![CDATA[<p>我的第一篇文章</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://zhuque108.github.io/post/hello-gridea/</id>
